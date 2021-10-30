@@ -26,7 +26,7 @@ This can be considered the project's burndown chart - and possibly the future Ta
 
 1. ICT and Sustainability - an overview
     1. The cloud and sustainability
-    1. Sustainability in private clouds and the edge
+    1. Sustainability in private clouds and the edge 
 1. Integrating sustainability in computer science curriculums
 1. Systems Architecture and Sustainability
     1. Is Serverless the solution for sustainable software systems?
