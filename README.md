@@ -43,7 +43,7 @@ This can be considered the project's burndown chart - and possibly the future Ta
     1. AI and Sustainability
     1. Data Storage - options and their environmental footprint
 1. Appendix
-    2. Blockchain and Crypto in light of sustainability
+    1. Blockchain and Crypto in light of sustainability
 3. ...
 
 
