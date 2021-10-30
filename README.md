@@ -11,13 +11,13 @@ This project is currently at a very early stage, and being initiaded and coordin
 
 ## Bibliography / Reference Material
 
-[Integrating sustainability across the computer science curriculum](https://dl.acm.org/doi/abs/10.5555/2667432.2667464)
-[Sustainable Development and Computing—An Introduction](https://link.springer.com/chapter/10.1007/978-3-319-31858-5_1)
-[Teach sustainability in software engineering?](https://ieeexplore.ieee.org/abstract/document/5876124)
-[Learning and Teaching Computing Sustainability](https://dl.acm.org/doi/abs/10.1145/2729094.2754850)
-[Using a Crowdsourcing Knowledge Base to Support the Sustainability and Social Compromise Skill in Computer Science Engineering Studies](https://link.springer.com/chapter/10.1007/978-3-642-35879-1_30)
-[How Google Keeps Its Power-Hungry Operations Carbon-Neutral](https://www.wired.com/story/how-google-keeps-power-hungry-operations-carbon-neutral/)
-[How ‘Sustainable’ Web Design Can Help Fight Climate Change](https://www.wired.com/story/sustainable-software-design-climate-change/)
+* [Integrating sustainability across the computer science curriculum](https://dl.acm.org/doi/abs/10.5555/2667432.2667464)
+* [Sustainable Development and Computing—An Introduction](https://link.springer.com/chapter/10.1007/978-3-319-31858-5_1)
+* [Teach sustainability in software engineering?](https://ieeexplore.ieee.org/abstract/document/5876124)
+* [Learning and Teaching Computing Sustainability](https://dl.acm.org/doi/abs/10.1145/2729094.2754850)
+* [Using a Crowdsourcing Knowledge Base to Support the Sustainability and Social Compromise Skill in Computer Science Engineering Studies](https://link.springer.com/chapter/10.1007/978-3-642-35879-1_30)
+* [How Google Keeps Its Power-Hungry Operations Carbon-Neutral](https://www.wired.com/story/how-google-keeps-power-hungry-operations-carbon-neutral/)
+* [How ‘Sustainable’ Web Design Can Help Fight Climate Change](https://www.wired.com/story/sustainable-software-design-climate-change/)
 
 
 ## Table of Contents (Draft)
