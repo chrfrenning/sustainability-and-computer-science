@@ -18,6 +18,14 @@ This project is currently at a very early stage, and being initiaded and coordin
 * [Using a Crowdsourcing Knowledge Base to Support the Sustainability and Social Compromise Skill in Computer Science Engineering Studies](https://link.springer.com/chapter/10.1007/978-3-642-35879-1_30)
 * [How Google Keeps Its Power-Hungry Operations Carbon-Neutral](https://www.wired.com/story/how-google-keeps-power-hungry-operations-carbon-neutral/)
 * [How ‘Sustainable’ Web Design Can Help Fight Climate Change](https://www.wired.com/story/sustainable-software-design-climate-change/)
+* [Towards Sustainability Information Systems](https://www.sciencedirect.com/science/article/pii/S1877050915027222)
+* [Incorporating Sustainability into Computing Education](https://ieeexplore.ieee.org/abstract/document/7579425)
+* [Big Data, Big Waste? A Reflection on the Environmental Sustainability of Big Data Initiatives](https://link.springer.com/article/10.1007/s11948-019-00171-7)
+
+
+## University courses
+
+TODO: Gather list of relevant university courses
 
 
 ## Table of Contents (Draft)
@@ -27,12 +35,15 @@ This can be considered the project's burndown chart - and possibly the future Ta
 1. ICT and Sustainability - an overview
     1. The cloud and sustainability
     1. Sustainability in private clouds and the edge 
+    2. Broadband, Networks, 5G impact on sustainability
 1. Integrating sustainability in computer science curriculums
 1. Systems Architecture and Sustainability
     1. Is Serverless the solution for sustainable software systems?
     1. AI and Sustainability
     1. Data Storage - options and their environmental footprint
-1. ...
+1. Appendix
+    2. Blockchain and Crypto in light of sustainability
+3. ...
 
 
 ## License
