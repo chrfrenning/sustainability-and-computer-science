@@ -6,7 +6,7 @@ Rumors have claimed that a [Google search consumes as much energy as boiling a c
 
 We have seen that university offerings around sustainability for computer scientists is limited. Large cloud- and software-companies are building in-house curriculums for their development teams. The goal of this project is to gather scholars, articles, data with the aim of influencing university curriculums, providing an overview of work alrady publised on this subject, and eventually assemble a team to write a book on the subject that can contribute to increased awareness and knowledge of this field.
 
-This project is currently at a very early stage, and being initiaded and coordinated by Christopher Frenning. (Chris is a student at the University of Oslo and employee of Microsoft.) If you have expertise in this field, any input and all connections are highly welcome. Chris can be reached on chrifren@ifi.uio.no.
+This project is currently at a very early stage, and being initiaded and coordinated by Christopher Frenning. (Chris is a student at the University of Oslo and employee of Microsoft.) If you have expertise in this field, any input and all connections are highly welcome. Chris can be reached at chrifren@ifi.uio.no.
 
 
 ## Bibliography / Reference Material
