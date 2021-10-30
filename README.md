@@ -36,6 +36,7 @@ This can be considered the project's burndown chart - and possibly the future Ta
     1. The cloud and sustainability
     1. Sustainability in private clouds and the edge 
     2. Broadband, Networks, 5G impact on sustainability
+1. How to calculate emissions from your ICT systems
 1. Integrating sustainability in computer science curriculums
 1. Systems Architecture and Sustainability
     1. Is Serverless the solution for sustainable software systems?
